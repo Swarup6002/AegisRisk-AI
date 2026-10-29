@@ -1,0 +1,47 @@
+{
+  "Logistic_Regression_Scorecard": {
+    "ROC_AUC": 0.87,
+    "Gini_Coefficient": 0.74,
+    "KS_Statistic": 0.5974,
+    "Brier_Score": 0.1425,
+    "Precision": 0.4118,
+    "Recall": 0.8667,
+    "F1_Score": 0.5583
+  },
+  "LightGBM_Monotonic": {
+    "ROC_AUC": 0.9408,
+    "Gini_Coefficient": 0.8816,
+    "KS_Statistic": 0.7425,
+    "Brier_Score": 0.0707,
+    "Precision": 0.622,
+    "Recall": 0.8498,
+    "F1_Score": 0.7183
+  },
+  "XGBoost_Hist": {
+    "ROC_AUC": 0.9504,
+    "Gini_Coefficient": 0.9008,
+    "KS_Statistic": 0.7669,
+    "Brier_Score": 0.0492,
+    "Precision": 0.9373,
+    "Recall": 0.767,
+    "F1_Score": 0.8437
+  },
+  "CatBoost_Ordered": {
+    "ROC_AUC": 0.9456,
+    "Gini_Coefficient": 0.8911,
+    "KS_Statistic": 0.7549,
+    "Brier_Score": 0.0509,
+    "Precision": 0.949,
+    "Recall": 0.7495,
+    "F1_Score": 0.8375
+  },
+  "Champion_Stacked_Ensemble": {
+    "ROC_AUC": 0.9475,
+    "Gini_Coefficient": 0.8951,
+    "KS_Statistic": 0.7582,
+    "Brier_Score": 0.0501,
+    "Precision": 0.9519,
+    "Recall": 0.7531,
+    "F1_Score": 0.8409
+  }
+}

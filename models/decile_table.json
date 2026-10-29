@@ -1,0 +1,101 @@
+[
+  {
+    "decile": 2,
+    "count": 1265,
+    "min_pd": 0.2388,
+    "max_pd": 1.0,
+    "avg_predicted_pd": 0.8482,
+    "actual_default_rate": 0.8506,
+    "lift": 3.95,
+    "cumulative_bad_capture_pct": 78.83,
+    "ks_at_decile": 75.03
+  },
+  {
+    "decile": 3,
+    "count": 627,
+    "min_pd": 0.1385,
+    "max_pd": 0.2382,
+    "avg_predicted_pd": 0.1849,
+    "actual_default_rate": 0.1866,
+    "lift": 0.87,
+    "cumulative_bad_capture_pct": 87.4,
+    "ks_at_decile": 73.34
+  },
+  {
+    "decile": 4,
+    "count": 642,
+    "min_pd": 0.0809,
+    "max_pd": 0.1384,
+    "avg_predicted_pd": 0.1046,
+    "actual_default_rate": 0.0997,
+    "lift": 0.46,
+    "cumulative_bad_capture_pct": 92.09,
+    "ks_at_decile": 66.4
+  },
+  {
+    "decile": 5,
+    "count": 617,
+    "min_pd": 0.0562,
+    "max_pd": 0.0807,
+    "avg_predicted_pd": 0.068,
+    "actual_default_rate": 0.0729,
+    "lift": 0.34,
+    "cumulative_bad_capture_pct": 95.38,
+    "ks_at_decile": 58.19
+  },
+  {
+    "decile": 6,
+    "count": 595,
+    "min_pd": 0.0417,
+    "max_pd": 0.0562,
+    "avg_predicted_pd": 0.0491,
+    "actual_default_rate": 0.0403,
+    "lift": 0.19,
+    "cumulative_bad_capture_pct": 97.14,
+    "ks_at_decile": 48.46
+  },
+  {
+    "decile": 7,
+    "count": 630,
+    "min_pd": 0.0299,
+    "max_pd": 0.0415,
+    "avg_predicted_pd": 0.0363,
+    "actual_default_rate": 0.0317,
+    "lift": 0.15,
+    "cumulative_bad_capture_pct": 98.61,
+    "ks_at_decile": 37.65
+  },
+  {
+    "decile": 8,
+    "count": 691,
+    "min_pd": 0.0137,
+    "max_pd": 0.0297,
+    "avg_predicted_pd": 0.0235,
+    "actual_default_rate": 0.0188,
+    "lift": 0.09,
+    "cumulative_bad_capture_pct": 99.56,
+    "ks_at_decile": 24.97
+  },
+  {
+    "decile": 9,
+    "count": 498,
+    "min_pd": 0.0035,
+    "max_pd": 0.0137,
+    "avg_predicted_pd": 0.0092,
+    "actual_default_rate": 0.006,
+    "lift": 0.03,
+    "cumulative_bad_capture_pct": 99.78,
+    "ks_at_decile": 15.23
+  },
+  {
+    "decile": 10,
+    "count": 771,
+    "min_pd": 0.0,
+    "max_pd": 0.0032,
+    "avg_predicted_pd": 0.0009,
+    "actual_default_rate": 0.0039,
+    "lift": 0.02,
+    "cumulative_bad_capture_pct": 100.0,
+    "ks_at_decile": 0.0
+  }
+]

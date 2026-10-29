@@ -1,0 +1,70 @@
+[
+  {
+    "feature": "loan_grade",
+    "importance": 0.9156
+  },
+  {
+    "feature": "person_income",
+    "importance": 0.7083
+  },
+  {
+    "feature": "person_home_ownership",
+    "importance": 0.6115
+  },
+  {
+    "feature": "loan_intent",
+    "importance": 0.5701
+  },
+  {
+    "feature": "loan_to_income_ratio",
+    "importance": 0.5118
+  },
+  {
+    "feature": "foir_ratio",
+    "importance": 0.4415
+  },
+  {
+    "feature": "loan_int_rate",
+    "importance": 0.3187
+  },
+  {
+    "feature": "loan_percent_income",
+    "importance": 0.3008
+  },
+  {
+    "feature": "person_emp_length",
+    "importance": 0.1412
+  },
+  {
+    "feature": "income_per_emp_year",
+    "importance": 0.1164
+  },
+  {
+    "feature": "person_age",
+    "importance": 0.103
+  },
+  {
+    "feature": "estimated_monthly_emi",
+    "importance": 0.0699
+  },
+  {
+    "feature": "loan_amnt",
+    "importance": 0.0609
+  },
+  {
+    "feature": "credit_history_to_age_ratio",
+    "importance": 0.0594
+  },
+  {
+    "feature": "cb_person_cred_hist_length",
+    "importance": 0.0322
+  },
+  {
+    "feature": "high_risk_flag",
+    "importance": 0.0321
+  },
+  {
+    "feature": "cb_person_default_on_file",
+    "importance": 0.0084
+  }
+]

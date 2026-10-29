@@ -1,0 +1,14 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Data & Heavy Models
+data/
+models/*.joblib
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+.DS_Store
